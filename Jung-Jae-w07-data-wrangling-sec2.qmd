@@ -13,6 +13,7 @@ format:
 execute: 
   freeze: auto
 ---
+I edited it on GitHub 
 
 > **Note**: This codebook is based on the content of the lecture notes published on [Data Wrangling with Tidyverse](https://jmjung.quarto.pub/m05-1-principles-data-wrangling-with-tidyverse-in-r)
 
